@@ -1,0 +1,12 @@
+FleuretDLC
+François Fleuret, Deep Learning Course
+https://fleuret.org/dlc/
+
+JamesEtAl13
+An Introduction to Statistical Learning
+https://www.statlearning.com/
+
+Nielsen18
+How the backpropagation algorithm works
+http://neuralnetworksanddeeplearning.com/chap2.html
+
