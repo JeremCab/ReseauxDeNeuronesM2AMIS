@@ -1,5 +1,7 @@
 # Cours de réseaux de neurones, Master AMIS
 
+![](https://github.com/JeremCab/CourseNeuralNetworks/giphy.gif)
+
 ## Table des matières
 
 1.  Introduction
