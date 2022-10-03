@@ -1,6 +1,6 @@
 # Cours de réseaux de neurones, Master AMIS
 
-<img src=""/>
+<img src="https://github.com/JeremCab/CourseNeuralNetworks/blob/main/image.png" width="63%"/>
 
 Image taken from: https://teksands.ai/blog/evolution-of-design-of-artificial-neuron
 
