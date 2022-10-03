@@ -1,5 +1,10 @@
 # Cours de réseaux de neurones, Master AMIS
 
+<img src=""/>
+
+Image taken from: https://teksands.ai/blog/evolution-of-design-of-artificial-neuron
+
+
 ## Table des matières
 
 1.  Introduction
