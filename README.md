@@ -1,4 +1,4 @@
-# Cours de réseaux de neurones, Master AMIS
+# Master 2 AMIS: Réseaux de neurones
 
 <img src="https://github.com/JeremCab/CourseNeuralNetworks/blob/main/image.png" width="75%"/>
 Image taken from: https://teksands.ai/blog/evolution-of-design-of-artificial-neuron
