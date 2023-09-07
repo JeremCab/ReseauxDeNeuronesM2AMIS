@@ -5,17 +5,20 @@ Image taken from: https://teksands.ai/blog/evolution-of-design-of-artificial-neu
 
 ## Table des matières
 
-1.  Introduction
-2.  Overfitting
-3.  Bias-Variance Trade-Off
-4.  Linear Regression
-5.  KNN and Logistic Regression
-6.  Perceptron
-7.  Multi-Layer Perceptron
-8.  Loss Functions
-9.  Gradient Descent
-10. Backpropagation
-11. Neural Networks in Pytorch
+1. Introduction
+2. Overfitting and Bias-Variance Trade-Off
+3. Linear Regression
+4. KNN, Logistic Regression and Classification Metrics
+5. Perceptron
+6. Multi-Layer Perceptron
+7. Loss Functions
+8. Gradient Descent
+9. Backpropagation
+10. Neural Networks in Pytorch
+11. Autoencoder
+12. Denoising Autoencoders
+13. Variational Autoencoders
+14. Transformers
 
 ## Cours
 
