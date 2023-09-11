@@ -26,7 +26,7 @@ Les slides de cours se trouvent dans le dossier `Slides/`
 
 ## Exercices
 
-Les exercices et leurs corrigés se trouvent dans le dossier `Exercices/`.
+Les exercices et leurs corrigés se trouvent dans le dossier `TP/`.
 
 ## Bibliographie
 
