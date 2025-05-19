@@ -19,7 +19,8 @@ Image taken from: https://teksands.ai/blog/evolution-of-design-of-artificial-neu
 12. Autoencoder
 13. Denoising Autoencoders
 14. Variational Autoencoders
-15. Transformers
+15. Normalizing Flows - Invertible Neural Networks
+16. Transformers
 
 ## Cours
 
