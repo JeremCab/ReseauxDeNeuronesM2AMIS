@@ -15,12 +15,12 @@ Image taken from: https://teksands.ai/blog/evolution-of-design-of-artificial-neu
 8. Gradient Descent
 9. Backpropagation
 10. Neural Networks in Pytorch
-11. Convolutional Neural Networks (CNNs)
-12. Autoencoder
-13. Denoising Autoencoders
-14. Variational Autoencoders
-15. Normalizing Flows - Invertible Neural Networks
-16. Transformers
+11. Convolutional Neural Networks (CNN)
+12. Autoencoder (AE)
+13. Denoising Autoencoders (DAE)
+14. Variational Autoencoders (VAE)
+15. Generative Adversarial Networks (GAN)
+16. Transformers et LLMs
 
 ## Cours
 
