@@ -20,7 +20,8 @@ Image taken from: https://teksands.ai/blog/evolution-of-design-of-artificial-neu
 13. Denoising Autoencoders (DAE)
 14. Variational Autoencoders (VAE)
 15. Generative Adversarial Networks (GAN)
-16. Transformers et LLMs
+16. Flow-Based Models (**skipped**)
+17. Transformers et LLMs
 
 ## Cours
 
